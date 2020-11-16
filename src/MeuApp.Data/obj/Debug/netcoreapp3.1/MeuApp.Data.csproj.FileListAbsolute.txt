@@ -1,0 +1,15 @@
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Data.deps.json
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Data.runtimeconfig.json
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Data.runtimeconfig.dev.json
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Data.dll
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Data.pdb
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Business.dll
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\bin\Debug\netcoreapp3.1\MeuApp.Business.pdb
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.csprojAssemblyReference.cache
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.AssemblyInfoInputs.cache
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.AssemblyInfo.cs
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.csproj.CoreCompileInputs.cache
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.csproj.CopyComplete
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.dll
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.pdb
+D:\devPaul\MeuAppCompleto\src\MeuApp.Data\obj\Debug\netcoreapp3.1\MeuApp.Data.genruntimeconfig.cache
