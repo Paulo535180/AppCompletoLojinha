@@ -34,7 +34,7 @@ namespace MeuApp.Data.Repository
 
         public virtual async Task<List<TEntity>> ObterTodos()
         {
-           return await DbSet.ToListAsync();
+            return await DbSet.ToListAsync();
         }
         public virtual async Task Adicionar(TEntity entity)
         {

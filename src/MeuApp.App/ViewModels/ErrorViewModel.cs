@@ -1,5 +1,3 @@
-using System;
-
 namespace MeuApp.App.Models
 {
     public class ErrorViewModel

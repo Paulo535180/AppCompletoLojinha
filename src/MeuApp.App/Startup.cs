@@ -1,3 +1,4 @@
+using AutoMapper;
 using MeuApp.App.Data;
 using MeuApp.Business.Interfaces;
 using MeuApp.Data.Context;
@@ -37,7 +38,7 @@ namespace MeuApp.App
             services.AddControllersWithViews();
             services.AddRazorPages();
 
-
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddScoped<MyDbContext>();
             services.AddScoped<IProdutoRepository, ProdutoRepository>();

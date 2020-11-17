@@ -1,8 +1,8 @@
 ﻿using MeuApp.Business.Models;
 using System;
 using System.Collections.Generic;
-using System.Threading.Tasks;
 using System.Linq.Expressions;
+using System.Threading.Tasks;
 
 namespace MeuApp.Business.Interfaces
 {
@@ -14,7 +14,7 @@ namespace MeuApp.Business.Interfaces
         Task<List<TEntity>> ObterTodos();
         Task Atualizar(TEntity entity);
         Task Remover(Guid id);
-        Task<IEnumerable<TEntity>> Buscar(Expression<Func<TEntity, bool>>predicate);
+        Task<IEnumerable<TEntity>> Buscar(Expression<Func<TEntity, bool>> predicate);
         Task<int> SaveChanges();
     }
 }

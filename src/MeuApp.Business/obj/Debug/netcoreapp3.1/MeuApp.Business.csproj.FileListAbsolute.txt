@@ -3,7 +3,6 @@ D:\devPaul\MeuAppCompleto\src\MeuApp.Business\bin\Debug\netcoreapp3.1\MeuApp.Bus
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\bin\Debug\netcoreapp3.1\MeuApp.Business.runtimeconfig.dev.json
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\bin\Debug\netcoreapp3.1\MeuApp.Business.dll
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\bin\Debug\netcoreapp3.1\MeuApp.Business.pdb
-D:\devPaul\MeuAppCompleto\src\MeuApp.Business\obj\Debug\netcoreapp3.1\MeuApp.Business.csprojAssemblyReference.cache
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\obj\Debug\netcoreapp3.1\MeuApp.Business.AssemblyInfoInputs.cache
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\obj\Debug\netcoreapp3.1\MeuApp.Business.AssemblyInfo.cs
 D:\devPaul\MeuAppCompleto\src\MeuApp.Business\obj\Debug\netcoreapp3.1\MeuApp.Business.csproj.CoreCompileInputs.cache

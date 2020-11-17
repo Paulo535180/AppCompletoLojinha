@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MeuApp.Business.Models
+﻿namespace MeuApp.Business.Models
 {
     public enum TipoFornecedor
     {
